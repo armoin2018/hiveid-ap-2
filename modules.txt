@@ -1,4 +1,0 @@
-moment
-lodash
-os
-fs
