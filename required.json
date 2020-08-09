@@ -13,4 +13,6 @@
 ,"node-red-contrib-ui-state-trail"
 ,"node-red-contrib-ui-value-trail"
 ,"node-red-contrib-moment"
-,"node-red-contrib-functionx"]
+,"node-red-contrib-functionx"
+,"node-red-contrib-mp-function"
+,"node-red-contrib-function-npm"]
